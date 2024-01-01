@@ -91,31 +91,31 @@ endmodule
 
 ## i)Upcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-7-Synchornous-counters-/main/up.png)
 
 ## ii)Downcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-7-Synchornous-counters-/main/do.png)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 ## i)Upcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-7-Synchornous-counters-/main/up%20(2).png)
 
 ## ii)Downcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-7-Synchornous-counters-/main/do%20(2).png)
 
 ### TRUTH TABLE 
 
 ## i)Upcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-7-Synchornous-counters-/main/up%20(3).png)
 
 ## ii)Downcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Exp-7-Synchornous-counters-/main/do%20(3).png)
 
 ### RESULTS 
 Thus,The 4-bit up and Down Counter is implemented Successfully.
